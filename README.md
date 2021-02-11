@@ -1,6 +1,6 @@
 ## Neemesh Yadav
 
-<br>I am an 18 year old Undergraduate student and a Python Developer, currently pursuing Computer Science and Biosciences from [IIIT Delhi](https://www.iiitd.ac.in/).</br>
+<br>I am an 18 year old Undergraduate student and a Python Developer, currently pursuing Computer Science and Biosciences from [IIIT Delhi](https://www.iiitd.ac.in/) and a Freelance Software Developer on [Fiverr](https://www.fiverr.com/stealth_py)</br>
 I am currently learning DSA in Python for Competitive Programming, and Flask for developing Web Apps and some future projects.</br>
 I have a major interest in Artificial Intelligence and Machine Learning, and am looking forward to collaborate and enter this field in the future.
 
@@ -25,5 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Competitive Programming handles:
+[Codeforces](https://codeforces.com/profile/Stealth.py), [LeetCode](https://leetcode.com/Stealth_py/) and [Codechef](https://www.codechef.com/users/nemes1s).
 
 [![My-Stats](https://github-readme-stats.vercel.app/api?username=Stealth-py&theme=radical&show_icons=true)](https://github.com/Stealth-py)
