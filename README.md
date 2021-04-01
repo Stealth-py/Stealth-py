@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 ## My Competitive Programming handles:
 [Codeforces](https://codeforces.com/profile/Stealth.py), [LeetCode](https://leetcode.com/Stealth_py/) and [Codechef](https://www.codechef.com/users/nemes1s).
 
-[![My-Stats](https://github-readme-stats.vercel.app/api?username=Stealth-py&theme=radical&show_icons=true)](https://github.com/Stealth-py)
+[![My-Stats](https://github-readme-stats.vercel.app/api?username=Stealth-py&theme=radical&show_icons=true&layout=compact)](https://github.com/Stealth-py)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stealth-py&theme=radical&layout=compact)](https://github.com/Stealth-py)
