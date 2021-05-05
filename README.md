@@ -1,6 +1,6 @@
 # Neemesh Yadav
 
-I am an 18 year old Undergraduate student and a Python Developer, currently pursuing Computer Science and Biosciences from [IIIT Delhi](https://www.iiitd.ac.in/) and a Freelance Software Developer on [Fiverr](https://www.fiverr.com/stealth_py).</br>
+I am an Undergraduate student and a Python Developer, currently pursuing Computer Science and Biosciences from [IIIT Delhi](https://www.iiitd.ac.in/) and a Freelance Software Developer on [Fiverr](https://www.fiverr.com/stealth_py).</br>
 I am currently learning DSA in Python for Competitive Programming, and Deep Learning.</br>
 I have a major interest in Artificial Intelligence and Machine Learning, and am looking forward to collaborate and enter this field in the future.
 
