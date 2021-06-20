@@ -5,13 +5,7 @@ I am currently learning Machine Learning.</br>
 I have a major interest in Artificial Intelligence and Machine Learning, and am looking forward to collaborate and enter this field in the future.
 
 ## Languages I use:
-<!--
-<img src = "https://img.shields.io/badge/python%20-%236C0101.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/> <img src = "https://img.shields.io/badge/C++%20-red.svg?style=for-the-badge&logo=c%2B%2B&color=red" alt = "cpp"/> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stealth-py&theme=radical&layout=compact)](https://github.com/Stealth-py)
-
-<!--
-<a href = "https://twitter.com/NeemeshYadav"><img src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="stealth.py" height=30 width=30/></a> 
-<a href = "https://www.linkedin.com/in/neemesh-yadav-743baa1b8/"><img src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stealth.py" height=30 width=30/></a>  -->
 
 <!--
 **Stealth-py/Stealth-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +26,5 @@ Here are some ideas to get you started:
 [Codeforces](https://codeforces.com/profile/Stealth.py), [LeetCode](https://leetcode.com/Stealth_py/) and [Codechef](https://www.codechef.com/users/nemes1s).
 
 [![My-Stats](https://github-readme-stats.vercel.app/api?username=Stealth-py&theme=radical&show_icons=true&layout=compact)](https://github.com/Stealth-py)
+
+[Visitors](https://visitor-badge.glitch.me/badge?page_id=Stealth-py.Stealth-py)
