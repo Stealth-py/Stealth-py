@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 [![My-Stats](https://github-readme-stats.vercel.app/api?username=Stealth-py&theme=radical&show_icons=true&layout=compact)](https://github.com/Stealth-py)
 
-[Visitors](https://visitor-badge.glitch.me/badge?page_id=Stealth-py.Stealth-py)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Stealth-py.Stealth-py)](https://visitor-badge.glitch.me/badge?page_id=Stealth-py.Stealth-py)
