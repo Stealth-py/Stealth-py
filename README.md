@@ -6,16 +6,14 @@
 - I have a keen interest in Artificial Intelligence and Machine Learning, and am looking forward to collaborate and enter this field in the future.</br>
 - I am also open for any project ideas or collaboration. You can connect with me from the handles given below for collaboration or anything else.
 
-<br>
-
 ## Recent PRs, Issues, and Comments
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+## My Stats:
 
 [![My-Stats](https://github-readme-stats.vercel.app/api?username=Stealth-py&theme=radical&show_icons=true&layout=compact&height=30)](https://github.com/Stealth-py)
 
-## Languages I use:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stealth-py&theme=radical&layout=compact)](https://github.com/Stealth-py)
 
 ## You can contact me here:
