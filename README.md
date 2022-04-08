@@ -8,6 +8,11 @@
 
 <br>
 
+## Recent PRs, Issues, and Comments
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 [![My-Stats](https://github-readme-stats.vercel.app/api?username=Stealth-py&theme=radical&show_icons=true&layout=compact&height=30)](https://github.com/Stealth-py)
 
 ## Languages I use:
