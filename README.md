@@ -9,10 +9,10 @@
 ## Recent PRs, Issues, and Comments
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#96](https://github.com/keras-team/keras-nlp/issues/96) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-2. ❗️ Opened issue [#106](https://github.com/keras-team/keras-nlp/issues/106) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-3. 🗣 Commented on [#19](https://github.com/keras-team/keras-nlp/issues/19) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. 🗣 Commented on [#11](https://github.com/keras-team/keras-nlp/issues/11) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-5. 🗣 Commented on [#96](https://github.com/keras-team/keras-nlp/issues/96) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+2. 🗣 Commented on [#96](https://github.com/keras-team/keras-nlp/issues/96) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. 🗣 Commented on [#96](https://github.com/keras-team/keras-nlp/issues/96) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+4. ❗️ Opened issue [#106](https://github.com/keras-team/keras-nlp/issues/106) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+5. 🗣 Commented on [#19](https://github.com/keras-team/keras-nlp/issues/19) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 <!--END_SECTION:activity-->
 
 ## My Stats:
