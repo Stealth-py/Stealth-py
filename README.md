@@ -10,7 +10,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#115](https://github.com/keras-team/keras-nlp/issues/115) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 2. 🗣 Commented on [#115](https://github.com/keras-team/keras-nlp/issues/115) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-3. 🗣 Commented on [#143](https://github.com/keras-team/keras-nlp/issues/143) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. 🗣 Commented on [#115](https://github.com/keras-team/keras-nlp/issues/115) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 4. 🗣 Commented on [#143](https://github.com/keras-team/keras-nlp/issues/143) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 5. 🗣 Commented on [#143](https://github.com/keras-team/keras-nlp/issues/143) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 <!--END_SECTION:activity-->
