@@ -2,9 +2,7 @@
 
 <img align="right" alt="GIF" src="https://c.tenor.com/UZJd1pjj4NMAAAAC/surprised-pikachu.gif" width="250"/>
 
-- I am an Undergraduate student currently pursuing Computer Science and Biosciences from [IIIT Delhi](https://www.iiitd.ac.in/).</br>
-- I have a keen interest in Artificial Intelligence and Machine Learning, and am looking forward to collaborate and enter this field in the future.</br>
-- I am also open for any project ideas or collaboration. You can connect with me from the handles given below for collaboration or anything else.
+- I am a Junior, and an Undergraduate Researcher, currently pursuing my Bachelor's Degree in Computer Science and Biosciences @ [IIIT Delhi](https://www.iiitd.ac.in/).</br>
 ---
 ### Recent PRs, Issues, and Comments
 <!--START_SECTION:activity-->
