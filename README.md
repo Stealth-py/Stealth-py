@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://c.tenor.com/UZJd1pjj4NMAAAAC/surprised-pikachu.gif" width="250"/>
 
-- I am a Junior, and an Undergraduate Researcher @ [LCS2](https://lcs2.in/), currently pursuing my Bachelor's Degree in Computer Science and Biosciences @ [IIIT Delhi](https://www.iiitd.ac.in/).</br>
+- Senior @ [IIITD](https://iiitd.ac.in/) and an Undergraduate Researcher @ [LCS2](https://lcs2.in/)</br>
 ---
 ### Recent PRs, Issues, and Comments
 <!--START_SECTION:activity-->
