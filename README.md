@@ -2,7 +2,11 @@
 
 <img align="right" alt="GIF" src="https://c.tenor.com/UZJd1pjj4NMAAAAC/surprised-pikachu.gif" width="250"/>
 
-- Senior @ [IIITD](https://iiitd.ac.in/) and an Undergraduate Researcher @ [LCS2](https://lcs2.in/)</br>
+Hi!
+
+I'm Neemesh and I do AI/NLP research. I like working on problems that can help us understand AI behavior, its reasoning (and improving it), and its bias (Computational Social Science basically)! I also like learning about how these AI systems work (yes, interpretability is cool!).
+
+This page is not updated as often as [my personal homepage](https://stealth-py.github.io/) is so you're better off going there if you wanna know more about where I am, what I am doing / like doing!
 
 ---
 ### You can contact me here:
