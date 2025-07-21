@@ -4,7 +4,7 @@
 
 Hi!
 
-I'm Neemesh and I do AI/NLP research. I like working on problems that can help us understand AI behavior, its reasoning (and improving it), and its bias (Computational Social Science basically)! I also like learning about how these AI systems work (yes, interpretability is cool!).
+I'm Neemesh and I am a Research Engineer @ SMU. I like working on problems that can help us understand AI behavior, its reasoning (and improving it), and its bias (Computational Social Science basically)! I also want to learn more about how these systems work (yes, interpretability is cool!).
 
 This page is not updated as often as [my personal homepage](https://stealth-py.github.io/) is so you're better off going there if you wanna know more about where I am, what I am doing / like doing!
 
